@@ -6,11 +6,11 @@ Suponha que você está dando aula para uma turma que tem conhecimentos básicos
 2. Ponteiros - guardam endereços de memória - diagrama intuitivo
 3. Ponteiros - na prática - exemplo de código em C - acompanhado de diagrama
 4. Ponteiros - aplicações
-  4. Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
-  4. Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
-  4. Vetores - alocação de memória dinamicamente 
-    4. sem tamanho definido no código, cresce conforme necessidade em tempo de execução
-    4. sem necessidade de espaço contíguo na memória
+  * Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
+  * Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
+  * Vetores - alocação de memória dinamicamente 
+    * sem tamanho definido no código, cresce conforme necessidade em tempo de execução
+    * sem necessidade de espaço contíguo na memória
 
 Ponteiros tornam o programdor consciente das complexidades em manipular a memória do computador.
 
@@ -21,4 +21,4 @@ python,alado
 
 
 5. Ponteiros - cuidados
-5-1. se não inicializados então ponteiros apontam para 'algum' endereço memória (lixo --> garbage collector)
+  * se não inicializados então ponteiros apontam para 'algum' endereço memória (lixo --> garbage collector)
