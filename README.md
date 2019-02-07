@@ -45,11 +45,11 @@ Ponteiros tornam o programador consciente das complexidades em manipular a memó
   
   
   
-  
+# Resumo do capítulo 10 de [1]  
   
 [1] HORSTMANN, CAY, Conceitos de Computação com o Essencial de C++ . Bookman, 3ª edição, types, semantics, and language design. Cambridge: MIT Press, 1994.
 
-Resumo do capítulo 10 de [1]
+
 
 1. Um ponteiro indica a posição de um valor na memória.
 2. O operador * localiza o valor para o qual um ponteiro aponta.
