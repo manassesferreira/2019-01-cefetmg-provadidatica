@@ -7,6 +7,7 @@ Suponha que você está dando aula para uma turma que tem conhecimentos básicos
 3) Ponteiros - na prática - exemplo de código em C - acompanhado de diagrama
 
 4) Ponteiros - aplicações
+
 4.1) Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
 4.2) Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
 4.3) Vetores - alocação de memória dinamicamente 
@@ -23,4 +24,5 @@ python,alado
 
 
 5) Ponteiros - cuidados
+
 5.1) se não inicializados ponteiros apontam para 'algum' endereço memória (lixo - garbage collector)
