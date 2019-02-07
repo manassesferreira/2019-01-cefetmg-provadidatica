@@ -12,9 +12,11 @@ Ponteiros são amplamente usados em programação, ferramenta poderosa de abstra
 4. Ponteiros - aplicações
   * Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
   * Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
-  * Vetores - alocação de memória dinamicamente 
+  * Vetores - em C++ há um relacionamento profundo entre ponteiros e _arrays_
+  * Alocação de memória dinamicamente 
     * sem tamanho definido no código, cresce conforme necessidade em tempo de execução
     * sem necessidade de espaço contíguo na memória
+  * Orientação a objetos - em C++  ponteiros são necessários para implementar polimorfismo
 
 Ponteiros tornam o programador consciente das complexidades em manipular a memória do computador.
 
