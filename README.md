@@ -9,9 +9,13 @@ Suponha que você está dando aula para uma turma que tem conhecimentos básicos
 4) Ponteiros - aplicações
 
 4.1) Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
+
 4.2) Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
+
 4.3) Vetores - alocação de memória dinamicamente 
+
 4.3.1) sem tamanho definido no código, cresce conforme necessidade em tempo de execução
+
 4.3.2) sem necessidade de espaço contíguo na memória
 
 
