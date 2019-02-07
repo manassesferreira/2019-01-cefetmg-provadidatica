@@ -3,8 +3,8 @@
 > Suponha que você está dando aula para uma turma que tem conhecimentos básicos sobre programação de computadores. Durante a aula expositiva, um dos alunos faz a seguinte pergunta: o que são ponteiros ?  Na sua prova didática, você deve explicar o que são ponteiros em 10 minutos.  Recursos disponíveis: quadro branco e pincel.
 
 
-1. Ponteiros - no cotidiano - exemplo do relógio analógico
-2. Ponteiros - guardam endereços de memória - diagrama intuitivo
+1. Ponteiros - no cotidiano - exemplo do relógio analógico / bússola / balança / voleibol (ponta)
+2. Ponteiros - em programação - apontadores - guardam endereços de memória - diagrama intuitivo
 3. Ponteiros - na prática - exemplo de código em C - acompanhado de diagrama
 4. Ponteiros - aplicações
   * Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
