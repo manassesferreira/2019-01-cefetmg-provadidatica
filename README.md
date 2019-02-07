@@ -14,10 +14,12 @@ Suponha que você está dando aula para uma turma que tem conhecimentos básicos
 
 Ponteiros tornam o programdor consciente das complexidades em manipular a memória do computador.
 
-linguagem,cavalo
-c,selvagem
-java,selado
-python,alado
+
+| linguagem     | cavalo    |
+| ------------- |:---------:|
+| c             | selvagem  |
+| java          | selado    |
+| python        | alado     |
 
 
 5. Ponteiros - cuidados
