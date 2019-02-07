@@ -6,6 +6,9 @@
 1. Ponteiros - no cotidiano - relógio analógico / bússola / balança / futebol,voleibol (ponta) / prego gigante (construção civil)
 2. Ponteiros - em programação - apontadores - guardam endereços de memória - diagrama intuitivo
 3. Ponteiros - na prática - exemplo de código em C - acompanhado de diagrama
+
+Ponteiros são amplamente usados em programação, ferramenta poderosa de abstração.
+
 4. Ponteiros - aplicações
   * Funções - passagem de parâmetros por referência (endereço ao invés do valor, possibilidade de alteração)
   * Tipos Abstratos de Dados - poderosa ferramenta para implementá-los (listas encadeadas, grafos, Et cetera)
@@ -13,7 +16,7 @@
     * sem tamanho definido no código, cresce conforme necessidade em tempo de execução
     * sem necessidade de espaço contíguo na memória
 
-Ponteiros tornam o programdor consciente das complexidades em manipular a memória do computador.
+Ponteiros tornam o programador consciente das complexidades em manipular a memória do computador.
 
 
 | linguagem     | cavalo    |
